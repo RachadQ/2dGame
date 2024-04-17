@@ -98,4 +98,12 @@ Binaries/
 Logs/
 
 # Unreal Engine StarterContent directory
-Content/
+Content/StarterContent/Architecture
+Content/StarterContent/Textures
+Content/StarterContent/Props
+Content/StarterContent/Particles
+Content/StarterContent/Materials
+Content/StarterContent/Blueprints
+Content/StarterContent/Audio
+Content/StarterContent/Architecture
+Content/StarterContent/Shapes
