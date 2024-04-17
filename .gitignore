@@ -1,6 +1,15 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Compiled binary files
+*.suo
+*.pdb
+*.ilk
+*.dll
+*.exe
+*.lib
+*.exp
+
 # Compiled Object files
 *.slo
 *.lo
@@ -72,3 +81,21 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Metadata files
+*.meta
+*.orig
+
+# Generated files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleasePublic/
+Intermediate/
+Saved/
+Build/
+Binaries/
+Logs/
+
+# Unreal Engine StarterContent directory
+Content/StarterContent/
